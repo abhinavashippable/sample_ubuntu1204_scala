@@ -1,4 +1,4 @@
-package com.shippable
+package com.shippable 
 
 class HelloWorld {
    def main(args: Array[String]) {
